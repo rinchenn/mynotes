@@ -6,8 +6,12 @@
 `git checkout <branch-name>`		          // Switch to a branch
 
 
-git merge <branch-name>
-Git push origin master -u
-Git log
-Git add
-Git commit -m “message”
+`git merge <branch-name>`
+
+`Git push origin master -u`
+
+`Git log`
+
+`Git add .`
+
+`Git commit -m “message”`
