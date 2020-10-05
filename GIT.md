@@ -37,3 +37,4 @@
 `git merge <branch-name>`
 
 
+GIT ignore file
