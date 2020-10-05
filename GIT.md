@@ -44,3 +44,4 @@
 
 
 # GIT ignore file
+https://github.com/github/gitignore
