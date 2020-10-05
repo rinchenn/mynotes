@@ -1,5 +1,5 @@
 # Basics
-`git init`
+`git init`    // Initialize Local Git Repository
 
 `git status`
 
