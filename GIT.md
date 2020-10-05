@@ -10,6 +10,8 @@
 
 `git add . ` // Add all File(s) To Index / Staging area
 
+`git rm --cached <file> ` // Remove File from the Staging Area
+
 `git status`    // Check Status of Working Tree
 
 `git commit`   // Commit Changes In Index (Staging area) to the Local Git Repository
