@@ -20,6 +20,8 @@
 
 `git log`
 
+# Remote 
+
 `git push origin master -u`   // Push To Remote Repository
 
 `git pull`            // Pull Latest From Remote Repository
