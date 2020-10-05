@@ -5,6 +5,8 @@
 
 `git status`    // Check Status of Working Tree
 
+`git commit`   // Commit Changes In Index (Staging area) to the Local Git Repository
+
 `git log`
 
 `git commit -m “message”`
