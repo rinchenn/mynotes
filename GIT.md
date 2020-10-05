@@ -21,4 +21,6 @@
 
 `git merge <branch-name>`
 
-`git push origin master -u`
+`git push origin master -u`   // Push To Remote Repository
+
+`git pull`            // Pull Latest From Remote Repository
