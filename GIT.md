@@ -8,6 +8,8 @@
 
 `git add <file> ` // Add File(s) To Index / Staging area
 
+`git add . ` // Add all File(s) To Index / Staging area
+
 `git status`    // Check Status of Working Tree
 
 `git commit`   // Commit Changes In Index (Staging area) to the Local Git Repository
