@@ -11,6 +11,12 @@
 
 `git commit -m “message”`
 
+`git push origin master -u`   // Push To Remote Repository
+
+`git pull`            // Pull Latest From Remote Repository
+
+`git clone`           // Clone Remote Repository into a new directory
+
 # Branch
 `git branch <branch-name>`                // To create a branch
 
@@ -21,8 +27,4 @@
 
 `git merge <branch-name>`
 
-`git push origin master -u`   // Push To Remote Repository
 
-`git pull`            // Pull Latest From Remote Repository
-
-`git clone`           // Clone Remote Repository into a new directory
