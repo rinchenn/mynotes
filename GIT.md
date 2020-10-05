@@ -16,9 +16,9 @@
 
 `git commit`   // Commit Changes In Index (Staging area) to the Local Git Repository
 
-`git log`
-
 `git commit -m “message”`
+
+`git log`
 
 `git push origin master -u`   // Push To Remote Repository
 
