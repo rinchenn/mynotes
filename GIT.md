@@ -24,3 +24,5 @@
 `git push origin master -u`   // Push To Remote Repository
 
 `git pull`            // Pull Latest From Remote Repository
+
+`git clone`           // Clone Remote Repository into a new directory
