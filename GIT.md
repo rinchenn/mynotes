@@ -22,6 +22,10 @@
 
 # Remote 
 
+`git remote`       // List the remote Repository
+
+`git remote add origin <https://github/<your repository>`  // Add a remote reposiotry
+
 `git push origin master -u`   // Push To Remote Repository
 
 `git pull`            // Pull Latest From Remote Repository
