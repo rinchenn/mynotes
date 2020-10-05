@@ -1,7 +1,9 @@
 # Basics
 `git init`    // Initialize Local Git Repository
 
-`git status`
+`git add <file> ` // Add File(s) To Index / Staging area
+
+`git status`    // Check Status of Working Tree
 
 `git log`
 
